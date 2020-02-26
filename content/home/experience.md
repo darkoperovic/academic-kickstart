@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Consultant"
+  company = "DBI - The Danish Institute of Fire and Security Technology"
+  company_url = "https://brandogsikring.dk/en/"
+  location = "Copenhagen, Denmark"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Numerical modelling (CFD and FEM) for tackling various industry and research projects.
+  Experiments on material characterization, smoke and soot analysis. Risk assessment tasks.
+  Work with several industries – construction, naval, and offshore
+  <!-- Responsibilities include: -->
+  <!--  -->
+  <!-- * Analysing -->
+  <!-- * Modelling -->
+  <!-- * Deploying -->
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Occupational Trainee"
+  company = "University of Queensland"
+  company_url = "https://www.civil.uq.edu.au/fire"
+  location = "Brisbane, Australia"
+  date_start = "2018-12-01"
+  date_end = "2019-03-31"
+  description = """Conducted research in the field of timber structures – experimentally determining and
+correlating charring and regression rates of cross-laminated timber CLT."""
 
 +++
