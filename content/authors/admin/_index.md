@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Consultant
+role: Fellow in Fire Safety Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: DBI - The Danish Institute of Fire and Security Technology
-  url: ""
+- name: CERN
+  url: "https://home.cern/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Structural Design for Fire
+- Fire Risk Assessment
 - Fire Dynamics
 - Civil Engineering
-- Long distance running
+- Long-distance running
 - SCUBA diving
 - Cooking
 
@@ -45,13 +45,13 @@ social:
 - icon: envelope
   icon_pack: fas
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: mailto:dpe@dbigroup.dk
+  link: mailto:darkovperovic@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/darkoperovic111/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/darkoimfse/
+  link: https://twitter.com/darkocern/
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/darkoperovic111/
@@ -70,6 +70,6 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-Hello world! My name is Darko Perović. I am passionate about engineering, impressed with the speed of technological development of humanity, excited about seeing what the future will bring, and happy about being a part of it. After living in seven countries, studying in four, and finishing an international masters program, I realized how fruitful multicultural and multi-professional collaborations are. I genuinely believe that making this world a better and safer place to live is every engineers’ duty.
+Hello world! My name is Darko Perović. I am passionate about engineering, impressed with the speed of technological development of humanity, excited about seeing what the future will bring, and happy about being a part of it. After living in seven countries, studying in four, and finishing an international masters program, I realized how fruitful multicultural and multi-professional collaborations are. I genuinely believe that making this world a better and safer place to live is every engineer's duty.
 
 I am particularly interested in the fields of fire dynamics, structural and fire safety engineering with an emphasis on numerical modelling (CFD and FEM), and in experimental work for model validation and research purposes. Being inspired by many great people, which lead me to most of my achievements, I aim towards inspiring others and enjoy helping people prosper.
